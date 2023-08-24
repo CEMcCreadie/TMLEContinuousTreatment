@@ -1,0 +1,1 @@
+This is a partial implementation of the methods described in the paper: <a href="https://arxiv.org/pdf/2306.07736.pdf"> An Approach to Nonparametric Inference on the Causal Dose Response Function</a> by Hudson et al.
